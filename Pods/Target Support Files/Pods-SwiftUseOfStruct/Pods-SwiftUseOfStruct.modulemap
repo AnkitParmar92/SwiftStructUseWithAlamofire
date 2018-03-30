@@ -1,0 +1,6 @@
+framework module Pods_SwiftUseOfStruct {
+  umbrella header "Pods-SwiftUseOfStruct-umbrella.h"
+
+  export *
+  module * { export * }
+}
